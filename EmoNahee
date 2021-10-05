@@ -2168,5 +2168,5 @@ do
 	end
 end
 
-print("Loading Sightless Hub)")
+print("Thx For Use Sightless Hub")
 return library
