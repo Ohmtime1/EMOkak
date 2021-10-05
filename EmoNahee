@@ -2168,5 +2168,5 @@ do
 	end
 end
 
-print("dino was here :\)")
+print("Loading Sightless Hub)")
 return library
